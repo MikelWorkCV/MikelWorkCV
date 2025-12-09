@@ -29,7 +29,11 @@ Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engin
 
 ## **Formación y educación**
 - Digitalización del mantenimiento industrial (curso de especialización) (2025-2026)
-- Automatización y robotica industrial (curso de grado superior) (2023-2025)
+  - C.F.Somorrostro
+- Automatización y robótica industrial (curso de grado superior) (2023-2025)
+  - C.F.Somorrostro
+- Bachillerato Tecnológico (2021-2023)
+  - C.F.Somorrostro
 
 ## **Idiomas y lenguajes**
 - Inglés - C1

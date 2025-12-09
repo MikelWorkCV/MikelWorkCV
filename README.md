@@ -12,8 +12,6 @@ Programador de **PLCs** y **robótica industrial**, diseñador y programador de 
 - InTouch
 - UR5e
 - RobotStudio
-- EXOdesigner
-- EXOscada
 - Godot Engine
 - Blender
 

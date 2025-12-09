@@ -2,8 +2,6 @@
 
 Programador de **PLCs** y **robótica industrial**, diseñador y programador de **SCADAS** y modelador **3D**.
 
-Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engine para realizar un gemelo digital de bajo coste y gran libertad de personalizacón.
-
 ---
 
 ## **Programas y herramientas digitales**
@@ -40,3 +38,8 @@ Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engin
 - Español castellano - Nativo
 - Euskera - B1
 - GDScript - Aprendiz
+
+---
+
+## **Acuatlidad**
+Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engine para realizar un gemelo digital de bajo coste y gran libertad de personalizacón.

@@ -33,5 +33,6 @@ Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engin
 
 ## **Idiomas y lenguajes**
 - Inglés - C1
+- Español castellano - Nativo
 - Euskera - B1
 - GDScript - Aprendiz

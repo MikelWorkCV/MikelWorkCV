@@ -42,4 +42,4 @@ Programador de **PLCs** y **robótica industrial**, diseñador y programador de 
 ---
 
 ## **Acuatlidad**
-Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engine para realizar un gemelo digital de bajo coste y gran libertad de personalizacón.
+Actualmente estoy desarrollando un gemelo digital de bajo coste entralazando TIA Portal y Godot Engine para ofrecer una opción economica con gran libertad de personalizacón.

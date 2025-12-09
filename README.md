@@ -1,6 +1,6 @@
 # Hola, soy Mikel
 
-Programador de **PLCs** y **robotica industrial**, diseñador y programador de **SCADAS** y modelador **3D**.
+Programador de **PLCs** y **robótica industrial**, diseñador y programador de **SCADAS** y modelador **3D**.
 
 Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engine para realizar un gemelo digital de bajo coste y gran libertad de personalizacón.
 

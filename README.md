@@ -31,7 +31,7 @@ Actualmente estoy desarrollando una comunicación entre TIA Portal y Godot Engin
 - Digitalización del mantenimiento industrial (curso de especialización) (2025-2026)
 - Automatización y robotica industrial (curso de grado superior) (2023-2025)
 
-## **Lenguajes**
+## **Idiomas y lenguajes**
 - Inglés - C1
 - Euskera - B1
 - GDScript - Aprendiz
